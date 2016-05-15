@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\countdown.o
+./release\note.o
+./release\score.o
+./release\restart.o
+./release\gameover.o
+./release\moc_mainwindow.o
+./release\moc_countdown.o
+./release\moc_note.o
+);

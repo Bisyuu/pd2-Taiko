@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\countdown.o
+./debug\note.o
+./debug\score.o
+./debug\restart.o
+./debug\gameover.o
+./debug\moc_mainwindow.o
+./debug\moc_countdown.o
+./debug\moc_note.o
+);
